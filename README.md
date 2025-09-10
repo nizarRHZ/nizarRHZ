@@ -1,5 +1,6 @@
 # 🍂Nizar El Rhazzali🍂
 Hi! I'm Nizar El Rhazzali, a backend developer specialized in JavaScript, Node.js, Express.js, MySQL, MongoDB, Jest, Git, and Docker.
+
 <!--
 **nizarRHZ/nizarRHZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
