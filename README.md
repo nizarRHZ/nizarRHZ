@@ -1,4 +1,4 @@
-### Nizar El Rhazzali 👋
+# Nizar El Rhazzali 👋
 
 <!--
 **nizarRHZ/nizarRHZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
